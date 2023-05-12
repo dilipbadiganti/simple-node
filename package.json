@@ -1,0 +1,12 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "The Node.js app is a web application that listens for incoming HTTP requests on a specific port of the localhost. The app is built using Node.js and its built-in http module to create a server that can receive and respond to requests.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "DilipB",
+  "license": "ISC"
+}
